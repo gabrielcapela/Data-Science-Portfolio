@@ -5,7 +5,7 @@
 
 ## Gabriel Capela
 
-Data Science student, I have a multidisciplinary background and am interested in the areas of Operational Research, development with Python, and Data Science.
+Data Science enthusiast, I have a multidisciplinary background and am interested in the areas of Operational Research, development with Python, and Data Science.
 I seek to contribute to research and the creation of solutions for various problems, generating insights that support decision-making.
 
 Bachelor's degree in Naval Sciences from the Naval Academy and a postgraduate degree in Operations and Logistics Management from the Federal University of Rio Grande.
