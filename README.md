@@ -15,13 +15,15 @@ I hold the position of Captain-Lieutenant of the Marine Corps of the Brazilian N
 
 
 
-**Links:**
+### Links:
 
 * [LinkedIn](https://www.linkedin.com/in/gabrielcapela)
-* [Medium](https:)
+* [Medium](https:) (Loading...)
 
 
-**Projetos**
+### **Projects**
+#### Airbnb Data Analysis-Barcelona:
+https://bit.ly/3ysvskw
 
 
 
