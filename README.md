@@ -3,7 +3,7 @@
   <img src="interestelar_cover.jpg" >
 </p>
 
-## Gabriel Capela
+### Gabriel Capela
 
 Data Science enthusiast, I have a multidisciplinary background and am interested in the areas of Operational Research, development with Python, and Data Science.
 I seek to contribute to research and the creation of solutions for various problems, generating insights that support decision-making.
@@ -13,14 +13,17 @@ I hold the position of Captain-Lieutenant of the Marine Corps of the Brazilian N
 
 **Background in:** Operational Research, Python, Leadership and Military Operations.
 
+
+
 **Links:**
 
 * [LinkedIn](https://www.linkedin.com/in/gabrielcapela)
 * [Medium](https:)
 
 
-## Projetos:
-Veja os tutoriais publicados:
+**Projetos**
+
+
 
 * **
 ---
