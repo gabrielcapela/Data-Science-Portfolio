@@ -24,6 +24,7 @@ I hold the position of Captain-Lieutenant of the Marine Corps of the Brazilian N
 ### **Projects**
 #### Airbnb Data Analysis-Barcelona:
 https://bit.ly/3ysvskw
+Uma análise dos dados retirados do [Inside Airbnb](http://insideairbnb.com/get-the-data.html), com o intuito de treinar técnicas de tratamento e limpeza de dados e verificar as relações existentes entre as diversas variáveis de modo a extrair informações relevantes.
 
 
 
